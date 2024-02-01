@@ -5,6 +5,6 @@
 sudo apt update
 sudo apt install build-essential
 ```
-3. Follow the instructions at https://developer.nvidia.com/cuda-12-0-0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=runfile_local and select installer as runfile (local)
+3. Follow the instructions, make sure to select the right version of OS to match that of AMI https://developer.nvidia.com/cuda-12-0-0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=runfile_local and select installer as runfile (local)
 
  
