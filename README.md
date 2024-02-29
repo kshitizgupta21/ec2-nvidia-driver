@@ -7,7 +7,7 @@ sudo apt install nvidia-driver-470 nvidia-utils-470
 sudo reboot
 nvidia-smi
 ```
-```
+
 ### Instructions for installing CUDA 12.0 nvidia driver and docker on ubuntu AMI on EC2 instance
 1. Launch GPU ec2 instance with Ubuntu 20.04 AMI (ubuntu/images/hvm-ssd/ubuntu-focal-20.04-amd64-server-20240228-aced0818-eef1-427a-9e04-8ba38bada306)
 2. In the instance install gcc
